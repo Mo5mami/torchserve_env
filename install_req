@@ -1,3 +1,3 @@
-pip install -r full_requirements.txt
-python -m pip install detectron2 -f \
+pip install --no-cache-dir -r full_requirements.txt
+python -m pip install --no-cache-dir detectron2 -f \
   https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.8/index.html
