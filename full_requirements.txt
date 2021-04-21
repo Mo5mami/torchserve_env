@@ -9,4 +9,5 @@ scipy==1.4.1
 albumentations==0.5.2 
 pyyaml==5.1 
 yacs==0.1.8
+kaggle==1.5.12
 
