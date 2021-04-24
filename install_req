@@ -1,3 +1,4 @@
 pip install --no-cache-dir -r full_requirements.txt
 python -m pip install --no-cache-dir detectron2 -f \
   https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.8/index.html
+pip install --no-cache-dir torch==1.8.0+cpu torchvision==0.9.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
